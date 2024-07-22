@@ -6,5 +6,6 @@
     "displayTitle":"你好",
     "startSite":"07/02/2024",
     "singlePage":["about"],
-    "needComment":1
+    "needComment":1,
+    "allHead":"<script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>"
 }
