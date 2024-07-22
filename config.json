@@ -4,5 +4,7 @@
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "displayTitle":"你好",
-    "startSite":"07/02/2024"
+    "startSite":"07/02/2024",
+    "singlePage":["about"],
+    "needComment":1
 }
