@@ -7,6 +7,5 @@
     "startSite":"07/02/2024",
     "singlePage":["about"],
     "needComment":1,
-    "allHead":"<script src='https://blog.meekdai.com/assets/GmeekVercount.js'></script>",
-    `Gmeek-html<video src="" type="video/xxx" controls width="100%"></video>`
+    "allHead":"<script src='https://blog.meekdai.com/assets/GmeekVercount.js'></script>"
 }
